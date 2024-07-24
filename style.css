@@ -1,0 +1,149 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+
+    font-family: "inter";
+}
+
+.header-container {
+    background-color: #303030;
+    display: flex;
+    flex-direction: column;
+    color: #ffffff;
+    padding-top: 296px;
+    padding-left: 62px;
+    padding-bottom: 149px;
+
+}
+
+.header-container h1{
+    font-weight: 600;
+    size: 60px;
+    line-height: 72px;
+    letter-spacing: 2,5%;
+}
+
+.header-container p{
+    font-weight: 500;
+    size: 20px;
+    line-height: 28px;
+    margin-top: 25px;
+}
+
+.menu-informacional{
+    background-color: #f9f9f9;
+    padding:96px 171px;
+    display: flex;
+    align-items: center;
+    gap: 100px;
+    justify-content: space-between;
+}
+
+.menu-informacional div{
+    display: flex;
+    flex-direction: column;
+    gap:4px;
+}
+
+.menu-informacional div p{
+    font-weight: bold;
+    font-size: 25px;
+
+}
+
+#informativo{
+    display: flex;
+    
+         
+}
+
+#tituloinformativo{
+    display: flex;
+    margin-top: 100px;
+    margin-left: px;
+    margin-bottom: 50px;
+    font: bold;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 20px;
+}
+
+#informacao{
+    font-family: "inter";
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 30px;
+    margin-top: 304px;
+    margin-left:0 px;
+    
+    
+}
+ 
+#secao{
+    margin-top: 150px;
+    margin-left: 450px;
+}
+    
+
+#foto{
+    width: 450px;
+    height: 605px;
+    margin-top: 50px;
+    margin-left:64px;
+    border-radius: 30px;
+}
+
+#formulario{
+    background-color: #303030;
+}
+
+#tituloformulario{
+    font-weight: 700;
+    size: 32px;
+    line-height: 48px;
+    color: #ffffff;
+    margin-left: 650px;
+    margin-bottom: 50px;
+    padding-top: 50px;
+    
+}
+
+button{
+    background-color: #c07212 ;
+    color: #ffffff;
+    font-family: "raleway";
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 30px;
+    width: 286px;
+    height: 74px;
+    top: 1955px;
+    left: 577px;
+    gap: 0px;
+    border-radius: 10px 10px 10px 10px;
+    opacity: 0px;
+    margin-left: 800px;
+    margin-top: 50px;
+
+}
+
+input{
+    width: 508px;
+    height: 50px;
+    top: 1661px;
+    left: 466px;
+    gap: 0px;
+    border-radius: 10px 10px 10px 10px;
+    opacity: 0px;
+    background-color: #ffffff;
+    margin: 30px;
+    margin-left: 680px;
+    padding-left: 10px;
+    
+
+}
+
